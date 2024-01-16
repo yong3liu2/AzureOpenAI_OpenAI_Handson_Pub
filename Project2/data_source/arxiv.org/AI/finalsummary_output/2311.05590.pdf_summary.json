@@ -1,0 +1,6 @@
+[
+    {
+        "File name": "2311.05590.pdf",
+        "Summary": "The article discusses the use of AI chatbots, specifically ADA, in supporting data analysis tasks through conversational interactions. It also explores the potential of AI Threads and LLMs in this context, as well as visualization recommendation techniques. The article highlights the limitations and areas for improvement in the performance of these chatbots and the importance of context and intent in facilitating conversations. Additionally, the article discusses previous research on visual analytic conversations and the use of chatbots in this context. The article presents three main contributions: 1) discussing the structure of multi-threaded visual analytic conversations and their significance for LLM AI Agents, 2) presenting the design and implementation of AI Threads, and 3) showcasing the capabilities and limitations of LLM as analytic conversational agents through user studies. The article concludes by discussing the potential of conversational agents supported by LLMs in data analysis and presenting a novel approach to supporting these complex and multi-faceted conversations."
+    }
+]

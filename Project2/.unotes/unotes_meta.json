@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "datra": {
+      "name": "datra",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "temp": {
+      "name": "temp",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "markdown_tmp": 0
+      }
+    }
+  },
+  "files": {}
+}

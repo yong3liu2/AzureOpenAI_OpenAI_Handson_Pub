@@ -1,0 +1,6 @@
+[
+    {
+        "File name": "2311.05481.pdf",
+        "Summary": "The article discusses the use of the META4 model, a deep-learning approach, in generating metaphoric gestures by leveraging both speech and Image Schemas. It explains the importance of considering both speech and Image Schemas in modeling metaphoric gestures and introduces the BERTIS model, which computes Image Schema tags from text input. The article also provides a detailed explanation of each module in the META4 model and presents evaluation studies to demonstrate its effectiveness. It concludes with a discussion of the results and their implications for future research, highlighting the novelty of the META4 approach in utilizing self-supervised representations in text and audio to enhance gesture generation."
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "File name": "2311.05490.pdf",
+        "Summary": " understanding of the role of width in the complexity of planning problems. However, the reasons for the boundedness of width in many benchmark domains are not well understood. In this paper, the authors aim to address this question by exploring the relationship between bounded width and the existence of general optimal policies, as well as the use of serialized width and sketches for problem decomposition. The paper also discusses the limitations and extensions of these concepts, as well as their potential applications in encoding domain control knowledge and learning from small examples."
+    }
+]

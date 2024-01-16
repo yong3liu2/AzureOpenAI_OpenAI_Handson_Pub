@@ -1,0 +1,6 @@
+[
+    {
+        "File name": "1205.0674.pdf",
+        "Summary": "The passage discusses the concept of completeness in R-valued logic, a logic that is more expressive than abelian logic and connects continuous logic and mathematical fuzzy logic. The authors introduce a notion of theory and prove different formulations of completeness with respect to a new semantics. They also present a syntactic calculus for R-valued logic and prove properties of the provability relation. The authors then prove finite strong completeness of R-valued logic and extend it to all formulas. They also show that R-valued logic can be used as an alternative calculus for \u0141ukasiewicz logic and continuous propositional logic. The passage concludes by mentioning the equivalence of consistency and satisfiability in \u0141ukasiewicz logic and continuous propositional logic, which is referred to as weak completeness. The authors also discuss the connections between R-valued logic and abelian logic, as well as the different proof techniques used in the development of these logics."
+    }
+]
