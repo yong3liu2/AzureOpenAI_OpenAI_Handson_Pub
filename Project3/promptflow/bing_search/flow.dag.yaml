@@ -1,0 +1,19 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/Flow.schema.json
+environment:
+  python_requirements_txt: requirements.txt
+inputs:
+  question:
+    type: string
+    default: Sam Altman join Microsoft
+outputs:
+  output_prompt:
+    type: string
+    reference: ${bing_search.output}
+nodes:
+- name: bing_search
+  type: python
+  source:
+    type: code
+    path: bingsearch.py
+  inputs:
+    input1: ${inputs.question}

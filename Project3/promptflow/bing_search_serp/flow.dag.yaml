@@ -1,0 +1,22 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/Flow.schema.json
+environment:
+  python_requirements_txt: requirements.txt
+inputs:
+  question:
+    type: string
+    default: Who is China's president as of 11/22/2023
+outputs:
+  output_prompt:
+    type: string
+    reference: ${Serp_API_Bing_Search.output}
+nodes:
+- name: Serp_API_Bing_Search
+  type: python
+  source:
+    type: package
+    tool: promptflow.tools.serpapi.SerpAPI.search
+  inputs:
+    connection: Bing search (Serp) connection
+    engine: bing
+    num: 1
+    query: ${inputs.question}
