@@ -1,0 +1,67 @@
+[
+    {
+        "category": "Parking",
+        "inquiries": [
+            "Where do I park my car near the airport before my departure?",
+            "If booked parking, please provide its address and phone number"
+        ]
+    },
+    {
+        "category": "Flight information",
+        "inquiries": [
+            "Which airline is booked?",
+            "When the flight will depart? at which airport and its terminal number",
+            "Any luggage limitations?"
+        ]
+    },
+    {
+        "category": "Hotel",
+        "inquiries": [
+            "Which hotel is booked? Check in and check out time",
+            "Where is the hotel located? ",
+            "How far away from the local ski resorts?"
+        ]
+    },
+    {
+        "category": "Car rental",
+        "inquiries": [
+            "Did car rental booked? Pick up and drop off time?",
+            "Where is the car rental place located? "
+        ]
+    },
+    {
+        "category": "Ski resorts",
+        "inquiries": [
+            "Where are the ski resorts close to the hotel I booked",
+            "How to get to these resorts? Directions"
+        ]
+    },
+    {
+        "category": "Restaurants",
+        "inquiries": [
+            "Any Costco stores and gas stations near the hotel booked?",
+            "Any recommended place to eat dinner?",
+            "Any groceray stores near the hotel?"
+        ]
+    },
+    {
+        "category": "Place to visit",
+        "inquiries": [
+            "Any interested place to visit near by?"
+        ]
+    },
+    {
+        "category": "Safty",
+        "inquiries": [
+            "Anything need to watch out in the area of hotel booked?",
+            "Traffic conditions in the city / town where the hotel located?"
+        ]
+    },
+    {
+        "category": "Weather conditions",
+        "inquiries": [
+            "What the current weather conditions looks like in the city / town where the hotel booked?",
+            "How about the road conditions?"
+        ]
+    }
+]

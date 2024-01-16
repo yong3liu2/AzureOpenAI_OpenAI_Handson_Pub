@@ -1,0 +1,70 @@
+
+I am going to plan a Ski SLC ski trip for a week. Here are the information on this trip:
+1. I have booked airport parking: The parking information is as follows:
+{
+  "address": "14707 Guy R Brewer Boulevard, New York, United States",
+  "rating": "4",
+  "reviews": "539",
+  "type": "Commercial Parking Lot or Garage",
+  "operating_hours": {
+    "Sunday": "24 hours",
+    "Monday": "24 hours",
+    "Tuesday": "24 hours",
+    "Wednesday": "24 hours",
+    "Thursday": "24 hours",
+    "Friday": "24 hours",
+    "Saturday": "24 hours"
+  }
+}
+2. Booked flight: The flight information is as follows:
+{
+  "flight1": {
+    "departure": "New York-JFK",
+    "arrival": "Salt Lake City",
+    "date": "Dec 6, 2023",
+    "departureTime": "11:00 am",
+    "arrivalTime": "02:15 pm",
+    "duration": "5 hrs 15 mins",
+    "stops": "Nonstop",
+    "class": "Blue Basic",
+    "flightNumber": "B6871",
+    "operatedBy": "JetBlue"
+  },
+  "flight2": {
+    "departure": "Salt Lake City",
+    "arrival": "New York-JFK",
+    "date": "Dec 12, 2023",
+    "departureTime": "03:11 pm",
+    "arrivalTime": "09:38 pm",
+    "duration": "4 hrs 27 mins",
+    "stops": "Nonstop",
+    "class": "Blue Basic",
+    "flightNumber": "B6872",
+    "operatedBy": "JetBlue"
+  }
+}
+3. Booked hotel in the destination: The hotel information is as follows:
+Hotel Name: Fairfield Inn & Suites Salt Lake City South
+Address: 594 West 4500 South Salt Lake City Utah 84123 USA
+Phone Number: +1-801-265-9600
+Check-In: Wednesday, December 6, 2023 03:00 PM
+Check-Out: Tuesday, December 12, 2023 11:00 AM
+Number of rooms: 1 Room
+Guests per room: 2 Adults
+4. Booked car rental in the destination: The car rental information is as follows:
+
+{
+  "Pick-up": "Wed, Dec 6",
+  "Drop-off": "Tue, Dec 12",
+  "Pick-up and drop-off instructions": "Location",
+  "Confirmation": "#WF********",
+  "Expedia itinerary": "7267**********"
+}
+5. We will ski in the following Ski resorts in UT: Solitude Mountain Resort, Brighton Resort, and Alta Snowbird. 
+
+With all above information, can you make a detailed day to day ski trip plan include following:
+1. Entire trip planning starting from the every beginning, New York, like from parking, then fly out, then to SLC, then get Rental car, then go to hotel, 
+then Ski activities (filling in for the entire stay in this trip), then check out hotel, return rental car, take flight back.
+2. Each day should include driving directions and address to one of those Ski resorts, where to park, and where to eat dinner.
+3. For any location, address, contact info are needed.
+

@@ -1,0 +1,141 @@
+[
+    {
+        "category": "Parking",
+        "inquiries": [
+            "Where do I park my car near the airport before my departure?",
+            "If booked parking, please provide its address and phone number"
+        ]
+    },
+    {
+        "category": "Flight information",
+        "inquiries": [
+            "Which airline is it?",
+            "When the flight will depart? at which airport and its terminal number",
+            "Any luggage limitations?"
+        ]
+    },
+    {
+        "category": "Hotel",
+        "inquiries": [
+            "Which hotel is booked? Check-in and check-out time",
+            "Where is the hotel located?",
+            "How far away from the local ski resorts?"
+        ]
+    },
+    {
+        "category": "Car rental",
+        "inquiries": [
+            "Did car rental booked? Pick up and drop off time?",
+            "Where is the car rental place located?"
+        ]
+    },
+    {
+        "category": "Ski resorts",
+        "inquiries": [
+            "Where are the ski resorts close to the hotel I booked?",
+            "How to get to these resorts? Directions"
+        ]
+    },
+    {
+        "category": "Restaurants",
+        "inquiries": [
+            "Any Costco stores and gas stations near the hotel booked?",
+            "Any recommended place to eat dinner?",
+            "Any grocery stores near the hotel?"
+        ]
+    },
+    {
+        "category": "Place to visit",
+        "inquiries": [
+            "Any interested place to visit nearby?"
+        ]
+    },
+    {
+        "category": "Safety",
+        "inquiries": [
+            "Anything need to watch out in the area of hotel booked?",
+            "Traffic conditions in the city/town where the hotel located?"
+        ]
+    },
+    {
+        "category": "Weather conditions",
+        "inquiries": [
+            "What the current weather conditions look like in the city/town where the hotel booked?",
+            "How about the road conditions?"
+        ]
+    },
+    {
+        "category": "Equipment Rental",
+        "inquiries": [
+            "Have you arranged for ski/snowboard equipment rentals?",
+            "Where is the rental shop located?",
+            "What are the rental fees and timings?"
+        ]
+    },
+    {
+        "category": "Ski Lessons or Guides",
+        "inquiries": [
+            "Are there any available ski lessons or guides?",
+            "How can you sign up for them, and what's the schedule?"
+        ]
+    },
+    {
+        "category": "Lift Tickets and Passes",
+        "inquiries": [
+            "Have you purchased lift tickets or passes for the ski resorts?",
+            "Are there any discounts available for advance purchases?"
+        ]
+    },
+    {
+        "category": "Medical Facilities",
+        "inquiries": [
+            "Where are the nearest hospitals or medical centers located?",
+            "Is there a pharmacy nearby in case of emergencies?"
+        ]
+    },
+    {
+        "category": "Travel Insurance",
+        "inquiries": [
+            "Do you have travel insurance that covers winter sports and potential injuries on the slopes?"
+        ]
+    },
+    {
+        "category": "Local Events or Activities",
+        "inquiries": [
+            "Are there any local events or activities happening during your stay?",
+            "Any cultural or entertainment options beyond skiing?"
+        ]
+    },
+    {
+        "category": "Apres-Ski Activities",
+        "inquiries": [
+            "What activities are available after skiing? (e.g., spa, entertainment, etc.)"
+        ]
+    },
+    {
+        "category": "Language and Communication",
+        "inquiries": [
+            "Is there a language barrier in the area?",
+            "Are there any language apps or translation services that might be helpful?"
+        ]
+    },
+    {
+        "category": "Emergency Contacts",
+        "inquiries": [
+            "Have a list of emergency contacts for the area, including local police, fire department, and embassy/consulate if you're traveling internationally."
+        ]
+    },
+    {
+        "category": "Altitude Considerations",
+        "inquiries": [
+            "If the ski resort is at a high altitude, it's essential to be aware of altitude sickness symptoms and how to prevent it."
+        ]
+    },
+    {
+        "category": "Packing Checklist",
+        "inquiries": [
+            "Ensure you have appropriate clothing and gear for skiing, including warm clothing, gloves, goggles, etc.",
+            "Don't forget chargers, adapters, and other tech essentials."
+        ]
+    }
+]
