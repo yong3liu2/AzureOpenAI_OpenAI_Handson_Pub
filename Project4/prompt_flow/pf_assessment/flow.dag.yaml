@@ -1,0 +1,20 @@
+id: template_standard_flow
+name: Template Standard Flow
+environment:
+  python_requirements_txt: requirements.txt
+inputs:
+  topic:
+    type: string
+    default: Who is the CEO in 2023
+outputs:
+  Answer001:
+    type: string
+    reference: ${python_note_assessment.output}
+nodes:
+- name: python_note_assessment
+  type: python
+  source:
+    type: code
+    path: python_node_assessment.py
+  inputs:
+    input: ${inputs.topic}

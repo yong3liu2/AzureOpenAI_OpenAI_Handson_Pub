@@ -1,0 +1,85 @@
+[
+    {
+        "Category": "Financial Profile:",
+        "Inquiries": [
+            {
+                "Question": "What is the trend in revenue growth over the past few years?",
+                "Answer": "Zebra Technologies' revenue growth over the past few years has been as follows:\n- 2021: $5.627 billion, a 26.51% increase from 2020\n- 2020: $4.448 billion, a 0.82% decline from 2019\n\n(Source: Bing search)"
+            },
+            {
+                "Question": "How are the company's gross, operating, and net profit margins trending?",
+                "Answer": "I cannot find the answer."
+            },
+            {
+                "Question": "What is the company's operating cash flow and free cash flow?",
+                "Answer": "For the full year 2021, Zebra Technologies generated $1,069 million of operating cash flow and had free cash flow of $1,010 million. (Source: Zebra Technologies 2021 Annual Report)"
+            },
+            {
+                "Question": "What is the company's debt structure? (Long-term, short-term, interest rates)",
+                "Answer": "Agent stopped due to iteration limit or time limit."
+            },
+            {
+                "Question": "What are the major risks disclosed by the company?",
+                "Answer": "The major risks disclosed by Zebra Technologies include market risk, interest rate risk, and foreign exchange risk."
+            },
+            {
+                "Question": "How does the company perform compared to its competitors in the industry?",
+                "Answer": "Zebra Technologies competes with companies such as Datalogic, Honeywell, Panasonic, Cognex, SICK, Keyence, Fargo Electronics (a unit of HID Global), Sato, Toshiba TEC, TSC, Brother, and Dymo in the industry."
+            },
+            {
+                "Question": "How does the company allocate profits to dividends or share buybacks?",
+                "Answer": "I cannot find the answer."
+            }
+        ]
+    },
+    {
+        "Category": "Operational Performance:",
+        "Inquiries": [
+            {
+                "Question": "Are there any noticeable fluctuations in sales figures?",
+                "Answer": "I cannot find any noticeable fluctuations in Zebra Technologies' sales figures."
+            },
+            {
+                "Question": "Have there been any significant changes in expenses or cost of goods sold?",
+                "Answer": "I cannot find any information about significant changes in expenses or cost of goods sold for Zebra Technologies."
+            },
+            {
+                "Question": "What is the cash conversion cycle evolving?",
+                "Answer": "The cash conversion cycle of Zebra Technologies decreased from 51 days in 2017 to 24 days in December 2021. Unfortunately, I could not find the source for this information."
+            },
+            {
+                "Question": "How does the debt level compare to equity and assets?",
+                "Answer": "I cannot find the answer."
+            },
+            {
+                "Question": "Are there any pending litigations, investigations, or regulatory issues disclosed?",
+                "Answer": "I cannot find any information about pending litigations, investigations, or regulatory issues disclosed for Zebra Technologies."
+            },
+            {
+                "Question": "What investments is the company making in its business?",
+                "Answer": "I cannot find the answer."
+            }
+        ]
+    },
+    {
+        "Category": "Market Position and Risk Factors:",
+        "Inquiries": [
+            {
+                "Question": "Which metrics or KPIs are highlighted by the company as key measures of success?",
+                "Answer": "I cannot find the answer to the question."
+            },
+            {
+                "Question": "What are the major risks disclosed by the company?",
+                "Answer": "The major risks disclosed by Zebra Technologies include market risk, interest rate risk, and foreign exchange risk."
+            },
+            {
+                "Question": "Are there any market trends or industry-specific challenges affecting the company?",
+                "Answer": "Yes, there are market trends and industry-specific challenges affecting Zebra Technologies, as outlined in their SEC filings."
+            },
+            {
+                "Question": "How might these impact the company's future operations and financial health?",
+                "Answer": "To find specific information about how these factors might impact Zebra Technologies' future operations and financial health, you can refer to their financial results announcement for the fourth quarter and full year of 2022."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Test:",
+        "inquiries": [
+            "How stable and consistent is the company's revenue and profit growth over recent years?"
+        ]
+    },
+    {
+        "category": "Financial Profile:",
+        "inquiries": [
+            "How stable and consistent is the company's revenue and profit growth over recent years?",
+            "What is the level of the company's indebtedness, and how manageable are its debt obligations?",
+            "Are there any significant fluctuations or irregularities in the company's financial statements that might pose risks?"
+        ]
+    },
+    {
+        "category": "Market Position and Competitiveness:",
+        "inquiries": [
+            "How does the company position itself within the market compared to its competitors?",
+            "What are the primary market risks affecting the company's products or services?",
+            "How sensitive is the company to changes in market demand, pricing, or technological advancements?"
+        ]
+    },
+    {
+        "category": "Operational Efficiency:",
+        "inquiries": [
+            "Are there any operational inefficiencies or weaknesses in the company's supply chain, production processes, or logistics?",
+            "What measures are in place to address potential operational disruptions or contingencies?"
+        ]
+    },
+    {
+        "category": "Regulatory and Compliance Risks:",
+        "inquiries": [
+            "Is the company compliant with relevant industry regulations and standards?",
+            "Are there any pending legal or regulatory issues that might affect the company's operations or reputation?"
+        ]
+    },
+    {
+        "category": "Reputation and Stakeholder Perception:",
+        "inquiries": [
+            "How does the company manage its reputation among customers, investors, and other stakeholders?",
+            "Are there any potential risks related to negative publicity, ethical concerns, or social responsibility issues?"
+        ]
+    },
+    {
+        "category": "Strategic Risks:",
+        "inquiries": [
+            "What are the risks associated with the company's strategic decisions, expansion plans, or diversification efforts?",
+            "How adaptable and resilient is the company's strategy in response to changing market conditions?"
+        ]
+    },
+    {
+        "category": "Technological and Cyber Risks:",
+        "inquiries": [
+            "What are the potential risks associated with the company's technology infrastructure, cybersecurity, and data protection measures?",
+            "Has the company faced any past cybersecurity incidents, and what measures have been taken to prevent future occurrences?"
+        ]
+    },
+    {
+        "category": "Environmental, Social, and Governance (ESG) Risks:",
+        "inquiries": [
+            "What ESG-related risks might impact the company's reputation or long-term sustainability?",
+            "How does the company address environmental impact, social responsibility, and governance practices?"
+        ]
+    }
+]

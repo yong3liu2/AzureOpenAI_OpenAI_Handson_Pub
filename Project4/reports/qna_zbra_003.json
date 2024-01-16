@@ -1,0 +1,85 @@
+[
+    {
+        "Category": "Financial Profile:",
+        "Inquiries": [
+            {
+                "Question": "What is the trend in revenue growth over the past few years?",
+                "Answer": "Zebra Technologies has experienced revenue growth over the past few years, with a significant increase in 2021 compared to 2020."
+            },
+            {
+                "Question": "How are the company's gross, operating, and net profit margins trending?",
+                "Answer": "The company's gross, operating, and net profit margins have been trending as follows:\n- Gross profit margin: $2,624 million in 2022, $2,628 million in 2021, and $2,003 million in 2020.\n- Operating profit margin: $529 million in 2022, $979 million in 2021, and $651 million in 2020.\n- Net profit margin: $463 million in 2022, $837 million in 2021, and $504 million in 2020."
+            },
+            {
+                "Question": "What is the company's operating cash flow and free cash flow?",
+                "Answer": "The operating cash flow for Zebra Technologies for the years ended December 31, 2022, 2021, and 2020 were $488 million, $1,069 million, and $962 million, respectively. The free cash flow information was not found in the available documents."
+            },
+            {
+                "Question": "What is the company's debt structure? (Long-term, short-term, interest rates)",
+                "Answer": "Zebra Technologies' debt structure includes long-term debt of $881 million and current debt of $364 million."
+            },
+            {
+                "Question": "What are the major risks disclosed by the company?",
+                "Answer": "The major risks disclosed by Zebra Technologies include interest rate risk and foreign exchange risk."
+            },
+            {
+                "Question": "Who are the company's competitors, how does the company perform compared to its competitors in the industry?",
+                "Answer": "Zebra's competitors include Panasonic Holdings, Honeywell International, Ubisense, Toshiba, Lexmark, Entrust, Catapult, Datalogic, and Domino Printing. The company performs well compared to its competitors in the industry."
+            },
+            {
+                "Question": "How does the company allocate profits to dividends or share buybacks?",
+                "Answer": "According to the SEC filing report for Zebra Technologies, the company has not declared any cash dividends or distributions on its capital stock since its initial public offering in 1991. The company currently does not anticipate paying any cash dividends in the foreseeable future. However, the company has authorized a share repurchase program for up to $1 billion of its outstanding shares of common stock. As of December 31, 2022, the company has cumulatively repurchased 3,323,283 shares of common stock for approximately $1.1 billion, resulting in a remaining amount of share repurchases authorized under the plans of $945 million. \n\nSource: Zebra Technologies SEC filing report (10-K)"
+            }
+        ]
+    },
+    {
+        "Category": "Operational Performance:",
+        "Inquiries": [
+            {
+                "Question": "Are there any noticeable fluctuations in sales figures?",
+                "Answer": "Yes, there are noticeable fluctuations in sales figures for Zebra Technologies. (Source: Bing search)"
+            },
+            {
+                "Question": "Have there been any significant changes in expenses or cost of goods sold?",
+                "Answer": "I couldn't find any specific information about significant changes in expenses or cost of goods sold for Zebra Technologies."
+            },
+            {
+                "Question": "What is the cash conversion cycle evolving?",
+                "Answer": "Zebra Technologies' cash conversion cycle has been decreasing over the past five years, reaching a five-year low of 24 days in December 2021."
+            },
+            {
+                "Question": "How does the debt level compare to equity and assets?",
+                "Answer": "The debt level, equity, and assets of Zebra Technologies can be found in its consolidated balance sheets."
+            },
+            {
+                "Question": "Are there any pending litigations, investigations, or regulatory issues disclosed?",
+                "Answer": "I could not find any information about pending litigations, investigations, or regulatory issues disclosed for Zebra Technologies."
+            },
+            {
+                "Question": "What investments is the company making in its business?",
+                "Answer": "The specific investments that Zebra Technologies is making in its own business could not be found."
+            }
+        ]
+    },
+    {
+        "Category": "Market Position and Risk Factors:",
+        "Inquiries": [
+            {
+                "Question": "Which metrics or KPIs are highlighted by the company as key measures of success?",
+                "Answer": "I was unable to find specific information about the key metrics or KPIs highlighted by Zebra Technologies."
+            },
+            {
+                "Question": "What are the major risks disclosed by the company?",
+                "Answer": "The major risks disclosed by Zebra Technologies include interest rate risk and foreign exchange risk."
+            },
+            {
+                "Question": "Are there any market trends or industry-specific challenges affecting the company?",
+                "Answer": "Based on the available information, I could not find any specific market trends or industry-specific challenges affecting Zebra Technologies."
+            },
+            {
+                "Question": "How might these impact the company's future operations and financial health?",
+                "Answer": "Based on the available information, it is expected that the decline in net sales and the impact of foreign currency translation and acquisitions will have an impact on Zebra Technologies' future operations and financial health. However, more specific information about the extent of this impact is not provided."
+            }
+        ]
+    }
+]

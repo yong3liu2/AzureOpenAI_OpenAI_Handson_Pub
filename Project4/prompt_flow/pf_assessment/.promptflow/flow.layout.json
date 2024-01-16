@@ -1,0 +1,20 @@
+{
+  "nodeLayouts": {
+    "inputs": {
+      "x": -290,
+      "y": -29,
+      "index": -1
+    },
+    "outputs": {
+      "x": -300,
+      "y": 316,
+      "index": -1
+    },
+    "python_note_assessment": {
+      "x": -227,
+      "y": 118,
+      "index": 0
+    }
+  },
+  "orientation": "Vertical"
+}
