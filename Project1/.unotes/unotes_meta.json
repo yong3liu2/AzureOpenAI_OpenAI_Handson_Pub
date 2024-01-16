@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "data_source": {
+      "name": "data_source",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "__pycache__": {
+      "name": "__pycache__",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "Markdown_temp": 0
+  }
+}
