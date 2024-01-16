@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>SkiChatBot</title>
+</head>
+
+<body>
+    <h1>Ski trip planning</h1>
+
+    <!-- Dropdown/select input for the switch -->
+    <label for="switch">Select an Option:</label>
+    <select id="switch" name="switch">
+        <option value="Plan">Plan</option>
+        <option value="Doc compare">Doc compare</option>
+    </select>
+
+    <div id="chat-container"></div>
+    <input type="text" id="user-input">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        function sendMessage() {
+            var userText = document.getElementById("user-input").value;
+            if (userText.trim() === '') return;
+
+            // Get the selected switch value
+            var selectedSwitch = document.getElementById("switch").value;
+
+            var userDiv = document.createElement("div");
+            userDiv.innerHTML = "<strong>You:</strong><br>" + userText.replace(/\n/g, "<br>"); // Replace \n with <br> for HTML formatting
+            document.getElementById("chat-container").appendChild(userDiv);
+
+            document.getElementById("user-input").value = "";
+
+            fetch('/get_response', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                // body: 'user_input=' + userText
+                body: 'user_input=' + userText + '&switch=' + selectedSwitch // Include switch value in the POST body
+            })
+                .then(response => response.json())
+                .then(data => {
+                    var botDiv = document.createElement("div");
+                    var botResponse = data.output.replace(/\n/g, "<br>"); // Replace \n with <br> for HTML formatting
+                    botDiv.innerHTML = "<strong>Bot:</strong><br>" + botResponse;
+                    document.getElementById("chat-container").appendChild(botDiv);
+                });
+        }
+    </script>
+
+</body>
+
+</html>
