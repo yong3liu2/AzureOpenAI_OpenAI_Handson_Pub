@@ -95,3 +95,23 @@ End to end deployment: PromptFlow, Azure App Service
    2) comparison of ski trip requirments vs generated ski day to day plan
     - FAISS index file: faiss_index_doc_compare
     - index file is uploaded in GitHub as pulic access file so that Prompt Flow's FAISS tool can access
+
+
+Project7:
+Revolutionizing Compliance: OpenAI RAG Solution for Ontario Building Code - Exploring Part 7 Section 7.4
+Objective: To obtain a building permit, all drawings must comply with the Ontario Building Code (OBC).
+Issues: The OBC is in PDF format, spanning 759 pages, and only allows keyword searching. 
+   This format presents challenges as understanding and locating relevant information within the regulation document can be time-consuming. 
+   Moreover, there's a risk of incomplete information acquisition, potentially leading to permit application failures.
+
+[Data source]
+- https://www.ontario.ca/page/ontarios-building-code
+- OBC PDF file - Ontario Building Code - Exploring Part 7 Section 7.4
+[Architecture]
+- RAG
+Components:
+- LLM: OpenAI (models: Embedding, ChatCompletion)
+- LangChain framework, rag-chain with/out source, Tools, Agents (openai-tools-agent, react-agent) 
+- Vector store: FAISS
+- Web: Streamlit UI
+- BigQuery: cache DB. Collect Q&A pairs, good or bad. Good ones will be used for repeating queries; bad ones will be used for feedback and review by human.
